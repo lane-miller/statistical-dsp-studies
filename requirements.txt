@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+jupyterlab
+ipympl
+ipykernel
+filterpy
+spectrum
+pandas
+scikit-learn
+librosa
