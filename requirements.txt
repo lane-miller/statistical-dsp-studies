@@ -9,3 +9,4 @@ spectrum
 pandas
 scikit-learn
 librosa
+wfdb
